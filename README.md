@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Tanay Gaykwad 👋
 
 ### AI Automation Developer
@@ -24,7 +21,7 @@ I build practical automation systems that reduce repetitive work and improve bus
 
 ## Current Focus
 
-Learning, building, testing, selling and documenting real-world automation projects.
+Learning, building, testing, and documenting real-world automation projects.
 
 ## Connect With Me
 
