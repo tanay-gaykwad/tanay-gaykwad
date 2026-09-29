@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**tanay-gaykwad/tanay-gaykwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Tanay Gaykwad 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Automation Developer
+
+I build practical automation systems that reduce repetitive work and improve business workflows.
+
+## What I'm Working On
+
+- Building automation workflows with Make.com
+- Learning Python through practical projects
+- Exploring REST APIs and AI integrations
+- Developing solutions for repetitive business tasks
+
+## Technologies & Tools
+
+- Python
+- Make.com
+- REST APIs
+- Google Sheets
+- Git & GitHub
+
+## Current Focus
+
+Learning, building, testing, selling and documenting real-world automation projects.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/tanay-gaykwad-1873233b3?trk=contact-info
