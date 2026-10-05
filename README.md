@@ -22,7 +22,3 @@ I build practical automation systems that reduce repetitive work and improve bus
 ## Current Focus
 
 Learning, building, testing, and documenting real-world automation projects.
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/tanay-gaykwad-1873233b3?trk=contact-info
