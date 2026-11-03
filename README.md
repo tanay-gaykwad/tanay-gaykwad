@@ -12,7 +12,7 @@ I build practical software projects and automation workflows, with a focus on us
 
 ## Tools and technologies
 
-Python · JavaScript · TypeScript · Solidity · PostgreSQL · Redis · Docker · REST APIs · GitHub Actions
+Make.com ·AI Automation · Docker · REST APIs · GitHub Actions
 
 ## Current focus
 
