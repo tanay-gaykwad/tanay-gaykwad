@@ -1,19 +1,20 @@
 # Hi, I'm Tanay Gaykwad
 
-### automation developer
+I build practical software for real-world workflows, with an emphasis on clear interfaces, dependable setup, and honest project boundaries.
 
-I build practical software projects and automation workflows, with a focus on useful interfaces, clear operating boundaries, and documented setup.
+## Open-source projects
 
-## Selected projects
+- **[OriginalRoot](https://github.com/tanay-gaykwad/OriginalRoot-farm-to-home)** — A farmer-to-home marketplace and operations workspace. The Docker and desktop versions run locally with a local database; the public website is an introduction and static preview.
+- **[RoomRoute](https://github.com/tanay-gaykwad/roomroute)** — Rental discovery and listing workflows focused on Nagpur. The repository provides a local preview with synthetic listings; it is not a public rental service.
+- **[ReliefTrail ResponseHub](https://github.com/tanay-gaykwad/relieftrail-response-hub)** — A local nonprofit response and grant-operations workspace for fictional organizations and records. It is a portfolio project, not approved for real humanitarian operations.
+- **[ReliefTrail Blockchain](https://github.com/tanay-gaykwad/relieftrail-blockchain)** — A Solidity learning project for donation and organizer-authorized payout flows. It has local tests but no verified public deployment or independent audit.
 
-- **[RoomRoute](https://github.com/tanay-gaykwad/roomroute)** — Rental discovery for Nagpur. Includes renter and owner workflows with a local PostgreSQL, Redis, and email stack; it is not deployed as a public service.
-- **[ReliefTrail ResponseHub](https://github.com/tanay-gaykwad/relieftrail-response-hub)** — A nonprofit operations workspace for response records, restricted awards, budgets, reviews, and reporting. It uses fictional data and is not cleared for real operations.
-- **[ReliefTrail Blockchain](https://github.com/tanay-gaykwad/relieftrail-blockchain)** — A Solidity prototype for recording donations and organizer-authorized payouts. It has local automated checks, no verified public deployment, and no independent audit.
+## How to explore
 
-## Tools and technologies
+Each repository README includes its scope, current status, setup steps, and limitations. Start with the local walkthrough before relying on any demo data or external-service configuration.
 
-Make.com ·AI Automation · Docker · REST APIs · GitHub Actions
+## Tools
 
-## Current focus
+TypeScript · React · Python · Solidity · Docker · PostgreSQL · SQLite · GitHub Actions · Make.com
 
-Building, documenting, and validating small end-to-end software products while being clear about what is live, local, or still dependent on real-world services.
+These are independent open-source portfolio projects. Demo records are fictional, and a local deployment should not be mistaken for a hosted service.
